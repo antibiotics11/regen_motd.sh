@@ -20,5 +20,7 @@ ircd-hybrid 서버의 motd 파일을 매일 자동으로 변경하는 스크립�
 ## screenshot
 
 ![motd](https://user-images.githubusercontent.com/75349747/130984540-ac5e5b57-14ac-4a94-a85f-7bcf5d3c5bc4.PNG)
+![motd2](https://user-images.githubusercontent.com/75349747/130985715-8a679e8a-354e-4acb-98ab-30d71f1eafa3.PNG)
+
 <br>
 (Kiwi IRC client)
