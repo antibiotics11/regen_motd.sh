@@ -1,4 +1,4 @@
-# auto_change_motd
+# change_motd.sh
 
 ## Info
 ### English
